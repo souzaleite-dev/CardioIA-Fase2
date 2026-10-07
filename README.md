@@ -35,7 +35,7 @@ e o ECG vem de uma base pública e anonimizada.
 | Documentação clara e repositório público com README completo | 1 | este README |
 | Vídeo no YouTube (não listado) com link no GitHub | 2 | link no topo deste README |
 | Ir Além 1 | — | [souzaleite-cardioia-portal](https://github.com/souzaleite-dev/souzaleite-cardioia-portal) |
-| Ir Além 2 | — | [`notebooks/ir_alem_2_ecg_mlp.ipynb`](notebooks/ir_alem_2_ecg_mlp.ipynb) · seção 6
+| Ir Além 2 | — | [`ir-alem-2/`](ir-alem-2) (README e exemplos de imagens) e [`notebooks/ir_alem_2_ecg_mlp.ipynb`](notebooks/ir_alem_2_ecg_mlp.ipynb) · seção 6.2 |
 
 ---
 
@@ -50,9 +50,12 @@ CardioIA-Fase2/
 │   └── frases_risco.csv              # Parte 2 — 150 frases rotuladas (frase,situacao)
 ├── src/
 │   └── extrator_diagnostico.py       # Parte 1 — extração de sintomas e sugestão de diagnóstico
-└── notebooks/
-    ├── classificador_risco.ipynb     # Parte 2 — TF-IDF, classificação e avaliação
-    └── ir_alem_2_ecg_mlp.ipynb       # Ir Além 2 — MLP em imagens de ECG (Keras)
+├── notebooks/
+│   ├── classificador_risco.ipynb     # Parte 2 — TF-IDF, classificação e avaliação
+│   └── ir_alem_2_ecg_mlp.ipynb       # Ir Além 2 — MLP em imagens de ECG (Keras)
+└── ir-alem-2/                        # Ir Além 2 — README explicativo
+    ├── exemplos/                     # imagens de ECG normais e anormais (original e entrada da MLP)
+    └── figuras/                      # resultados: pipeline, curvas, matriz de confusão, erros
 ```
 
 ---
@@ -285,7 +288,8 @@ CSS Modules responsivo. Instruções, telas e decisões técnicas estão no READ
 
 ### 6.2 Ir Além 2 — Diagnóstico visual de ECG com rede neural MLP
 
-Notebook: [`notebooks/ir_alem_2_ecg_mlp.ipynb`](notebooks/ir_alem_2_ecg_mlp.ipynb).
+Notebook: [`notebooks/ir_alem_2_ecg_mlp.ipynb`](notebooks/ir_alem_2_ecg_mlp.ipynb) · README explicativo com
+exemplos de imagens: [`ir-alem-2/README.md`](ir-alem-2/README.md).
 
 - **Dados:** PTB Diagnostic ECG Database, na versão do Kaggle recomendada pela atividade
   (`shayanfazeli/heartbeat`): 14.552 batimentos da derivação II, 4.046 normais (controles
