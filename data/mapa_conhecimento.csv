@@ -1,0 +1,184 @@
+Sintoma 1,Sintoma 2,Doença Associada
+boca torta,boca caída,AVC (Acidente Vascular Cerebral)
+boca torta,rosto torto,AVC (Acidente Vascular Cerebral)
+dor de cabeça forte,dor de cabeça súbita,AVC (Acidente Vascular Cerebral)
+dor de cabeça forte,pior dor de cabeça,AVC (Acidente Vascular Cerebral)
+fala enrolada,dificuldade para falar,AVC (Acidente Vascular Cerebral)
+fala enrolada,fala arrastada,AVC (Acidente Vascular Cerebral)
+fala enrolada,palavras enroladas,AVC (Acidente Vascular Cerebral)
+formigamento no braço,braço dormente,AVC (Acidente Vascular Cerebral)
+formigamento no braço,dormência no braço,AVC (Acidente Vascular Cerebral)
+fraqueza em um lado do corpo,braço fraco,AVC (Acidente Vascular Cerebral)
+fraqueza em um lado do corpo,fraqueza na perna,AVC (Acidente Vascular Cerebral)
+fraqueza em um lado do corpo,fraqueza no braço,AVC (Acidente Vascular Cerebral)
+fraqueza em um lado do corpo,perna fraca,AVC (Acidente Vascular Cerebral)
+visão embaçada,vista embaçada,AVC (Acidente Vascular Cerebral)
+visão embaçada,vista turva,AVC (Acidente Vascular Cerebral)
+visão embaçada,visão turva,AVC (Acidente Vascular Cerebral)
+aperto no peito,aperto no tórax,Angina Estável
+aperto no peito,peso no peito,Angina Estável
+aperto no peito,pressão no peito,Angina Estável
+dor na mandíbula,dor no maxilar,Angina Estável
+dor na mandíbula,dor no queixo,Angina Estável
+dor no braço esquerdo,desce para o braço,Angina Estável
+dor no braço esquerdo,irradia para o braço,Angina Estável
+dor no peito,dor no coração,Angina Estável
+dor no peito,dor no tórax,Angina Estável
+falta de ar,dificuldade para respirar,Angina Estável
+falta de ar,fôlego curto,Angina Estável
+falta de ar,sem fôlego,Angina Estável
+melhora com repouso,melhora quando descanso,Angina Estável
+melhora com repouso,passa quando paro,Angina Estável
+piora com esforço,quando caminho rápido,Angina Estável
+piora com esforço,quando faço esforço,Angina Estável
+piora com esforço,quando subo escada,Angina Estável
+piora com esforço,quando subo ladeira,Angina Estável
+cansaço,cansada,Bradicardia
+cansaço,cansado,Bradicardia
+cansaço,sem energia,Bradicardia
+desmaio,apaguei,Bradicardia
+desmaio,desmaiei,Bradicardia
+desmaio,perdi os sentidos,Bradicardia
+pulso lento,batimento lento,Bradicardia
+pulso lento,coração batendo devagar,Bradicardia
+tontura,cabeça rodando,Bradicardia
+tontura,tonta,Bradicardia
+tontura,tonto,Bradicardia
+dor de cabeça forte,dor de cabeça súbita,Crise Hipertensiva
+dor de cabeça forte,pior dor de cabeça,Crise Hipertensiva
+dor na nuca,dor de cabeça na nuca,Crise Hipertensiva
+dor na nuca,nuca doendo,Crise Hipertensiva
+náusea,enjoo,Crise Hipertensiva
+náusea,vontade de vomitar,Crise Hipertensiva
+pressão alta,pressão nas alturas,Crise Hipertensiva
+pressão alta,pressão subiu,Crise Hipertensiva
+sangramento no nariz,nariz sangrando,Crise Hipertensiva
+sangramento no nariz,sangue pelo nariz,Crise Hipertensiva
+visão embaçada,vista embaçada,Crise Hipertensiva
+visão embaçada,vista turva,Crise Hipertensiva
+visão embaçada,visão turva,Crise Hipertensiva
+zumbido no ouvido,ouvido zumbindo,Crise Hipertensiva
+dor ao respirar fundo,dói quando respiro,Embolia Pulmonar
+dor ao respirar fundo,piora quando respiro fundo,Embolia Pulmonar
+dor no peito,dor no coração,Embolia Pulmonar
+dor no peito,dor no tórax,Embolia Pulmonar
+falta de ar,dificuldade para respirar,Embolia Pulmonar
+falta de ar,fôlego curto,Embolia Pulmonar
+falta de ar,sem fôlego,Embolia Pulmonar
+falta de ar súbita,ar sumiu de repente,Embolia Pulmonar
+falta de ar súbita,falta de ar de repente,Embolia Pulmonar
+inchaço em uma perna,panturrilha inchada,Embolia Pulmonar
+inchaço em uma perna,perna inchada,Embolia Pulmonar
+pontada no peito,dor em pontada,Embolia Pulmonar
+pontada no peito,fisgada no peito,Embolia Pulmonar
+tosse com sangue,cuspindo sangue,Embolia Pulmonar
+tosse com sangue,escarro com sangue,Embolia Pulmonar
+cansaço,cansada,Estenose Aórtica
+cansaço,cansado,Estenose Aórtica
+cansaço,sem energia,Estenose Aórtica
+desmaio,apaguei,Estenose Aórtica
+desmaio,desmaiei,Estenose Aórtica
+desmaio,perdi os sentidos,Estenose Aórtica
+falta de ar,dificuldade para respirar,Estenose Aórtica
+falta de ar,fôlego curto,Estenose Aórtica
+falta de ar,sem fôlego,Estenose Aórtica
+piora com esforço,quando caminho rápido,Estenose Aórtica
+piora com esforço,quando faço esforço,Estenose Aórtica
+piora com esforço,quando subo escada,Estenose Aórtica
+piora com esforço,quando subo ladeira,Estenose Aórtica
+sopro no coração,sopro cardíaco,Estenose Aórtica
+tontura,cabeça rodando,Estenose Aórtica
+tontura,tonta,Estenose Aórtica
+tontura,tonto,Estenose Aórtica
+batimento irregular,batendo fora do ritmo,Fibrilação Atrial
+batimento irregular,coração descompassado,Fibrilação Atrial
+batimento irregular,coração falhando,Fibrilação Atrial
+palpitação,batedeira,Fibrilação Atrial
+palpitação,coração acelerado,Fibrilação Atrial
+palpitação,coração disparado,Fibrilação Atrial
+tontura,cabeça rodando,Fibrilação Atrial
+tontura,tonta,Fibrilação Atrial
+tontura,tonto,Fibrilação Atrial
+aperto no peito,aperto no tórax,Infarto Agudo do Miocárdio
+aperto no peito,peso no peito,Infarto Agudo do Miocárdio
+aperto no peito,pressão no peito,Infarto Agudo do Miocárdio
+cansaço,cansada,Infarto Agudo do Miocárdio
+cansaço,cansado,Infarto Agudo do Miocárdio
+cansaço,sem energia,Infarto Agudo do Miocárdio
+dor na boca do estômago,queimação na boca do estômago,Infarto Agudo do Miocárdio
+dor na mandíbula,dor no maxilar,Infarto Agudo do Miocárdio
+dor na mandíbula,dor no queixo,Infarto Agudo do Miocárdio
+dor no braço esquerdo,desce para o braço,Infarto Agudo do Miocárdio
+dor no braço esquerdo,irradia para o braço,Infarto Agudo do Miocárdio
+dor no peito,dor no coração,Infarto Agudo do Miocárdio
+dor no peito,dor no tórax,Infarto Agudo do Miocárdio
+falta de ar,dificuldade para respirar,Infarto Agudo do Miocárdio
+falta de ar,fôlego curto,Infarto Agudo do Miocárdio
+falta de ar,sem fôlego,Infarto Agudo do Miocárdio
+formigamento no braço,braço dormente,Infarto Agudo do Miocárdio
+formigamento no braço,dormência no braço,Infarto Agudo do Miocárdio
+náusea,enjoo,Infarto Agudo do Miocárdio
+náusea,vontade de vomitar,Infarto Agudo do Miocárdio
+suor frio,suando frio,Infarto Agudo do Miocárdio
+suor frio,sudorese,Infarto Agudo do Miocárdio
+cansaço,cansada,Insuficiência Cardíaca
+cansaço,cansado,Insuficiência Cardíaca
+cansaço,sem energia,Insuficiência Cardíaca
+cansaço constante,cansaço que não passa,Insuficiência Cardíaca
+cansaço constante,fadiga,Insuficiência Cardíaca
+falta de ar,dificuldade para respirar,Insuficiência Cardíaca
+falta de ar,fôlego curto,Insuficiência Cardíaca
+falta de ar,sem fôlego,Insuficiência Cardíaca
+falta de ar ao deitar,acordo sem ar,Insuficiência Cardíaca
+falta de ar ao deitar,acordo sufocado,Insuficiência Cardíaca
+falta de ar ao deitar,dormir sentado,Insuficiência Cardíaca
+inchaço nas pernas,pernas inchadas,Insuficiência Cardíaca
+inchaço nas pernas,pés inchados,Insuficiência Cardíaca
+inchaço nas pernas,tornozelos inchados,Insuficiência Cardíaca
+piora com esforço,quando caminho rápido,Insuficiência Cardíaca
+piora com esforço,quando faço esforço,Insuficiência Cardíaca
+piora com esforço,quando subo escada,Insuficiência Cardíaca
+piora com esforço,quando subo ladeira,Insuficiência Cardíaca
+tosse à noite,tosse quando deito,Insuficiência Cardíaca
+tosse à noite,tosse seca à noite,Insuficiência Cardíaca
+após infecção viral,depois da covid,Miocardite
+após infecção viral,depois de um resfriado,Miocardite
+após infecção viral,depois de uma gripe,Miocardite
+cansaço,cansada,Miocardite
+cansaço,cansado,Miocardite
+cansaço,sem energia,Miocardite
+cansaço constante,cansaço que não passa,Miocardite
+cansaço constante,fadiga,Miocardite
+dor no peito,dor no coração,Miocardite
+dor no peito,dor no tórax,Miocardite
+falta de ar,dificuldade para respirar,Miocardite
+falta de ar,fôlego curto,Miocardite
+falta de ar,sem fôlego,Miocardite
+febre,calafrios,Miocardite
+febre,febril,Miocardite
+após infecção viral,depois da covid,Pericardite
+após infecção viral,depois de um resfriado,Pericardite
+após infecção viral,depois de uma gripe,Pericardite
+dor ao respirar fundo,dói quando respiro,Pericardite
+dor ao respirar fundo,piora quando respiro fundo,Pericardite
+dor no peito,dor no coração,Pericardite
+dor no peito,dor no tórax,Pericardite
+febre,calafrios,Pericardite
+febre,febril,Pericardite
+melhora ao inclinar para frente,alivia inclinado para frente,Pericardite
+melhora ao inclinar para frente,melhora quando me inclino,Pericardite
+pontada no peito,dor em pontada,Pericardite
+pontada no peito,fisgada no peito,Pericardite
+coração dispara de repente,começa e para de repente,Taquicardia Supraventricular
+coração dispara de repente,dispara do nada,Taquicardia Supraventricular
+palpitação,batedeira,Taquicardia Supraventricular
+palpitação,coração acelerado,Taquicardia Supraventricular
+palpitação,coração disparado,Taquicardia Supraventricular
+tontura,cabeça rodando,Taquicardia Supraventricular
+tontura,tonta,Taquicardia Supraventricular
+tontura,tonto,Taquicardia Supraventricular
+dor na panturrilha,dor na batata da perna,Trombose Venosa Profunda
+inchaço em uma perna,panturrilha inchada,Trombose Venosa Profunda
+inchaço em uma perna,perna inchada,Trombose Venosa Profunda
+perna vermelha e quente,perna quente,Trombose Venosa Profunda
+perna vermelha e quente,vermelha e quente,Trombose Venosa Profunda
