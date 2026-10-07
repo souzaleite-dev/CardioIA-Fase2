@@ -5,7 +5,7 @@
 > pacientes, sugestão de diagnóstico por mapa de conhecimento e classificação de risco
 > por texto, com análise de vieses.
 
-**Vídeo de demonstração (YouTube, não listado):** _adicionar o link aqui_
+**Vídeo de demonstração (YouTube, não listado):** https://youtu.be/4vvgaEX1x4Q
 
 **Fase anterior:** [CardioIA-Fase1](https://github.com/souzaleite-dev/CardioIA-Fase1) ·
 **Ir Além 1 (portal React):** [souzaleite-cardioia-portal](https://github.com/souzaleite-dev/souzaleite-cardioia-portal)
@@ -280,6 +280,8 @@ Repositório próprio, como pede a atividade:
 Login simulado com JWT fake e Context API, rotas protegidas, lista de pacientes (30 da base
 sintética da Fase 1), agendamento com `useReducer` e validação de conflitos, dashboard e
 CSS Modules responsivo. Instruções, telas e decisões técnicas estão no README de lá.
+
+**Vídeo do portal (YouTube, não listado):** https://youtu.be/EK6RL6GIeNY
 
 ### 6.2 Ir Além 2 — Diagnóstico visual de ECG com rede neural MLP
 
